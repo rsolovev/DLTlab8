@@ -1,0 +1,5 @@
+jsonpickle
+pkg-resources
+pycrypto==2.6.1
+
+crypto~=1.4.1
